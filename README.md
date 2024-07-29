@@ -1,3 +1,3 @@
-## SailfishOS-vayu
+## SailfishOS-psyche (Xiaomi 12X)
 
-[Directory Listing](https://sailfishos-vayu.github.io/repo/)
+[Directory Listing](https://sailfishos-psyche.github.io/repo/)
